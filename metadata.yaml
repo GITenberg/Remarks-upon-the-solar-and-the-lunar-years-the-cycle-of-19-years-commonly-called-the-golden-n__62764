@@ -1,5 +1,8 @@
 _repo: Remarks-upon-the-solar-and-the-lunar-years-the-cycle-of-19-years-commonly-called-the-golden-n__62764
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Macclesfield, George Parker, Earl of
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52110
     wikipedia: https://en.wikipedia.org/wiki/George_Parker,_2nd_Earl_of_Macclesfield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62764#Remarks-upon-the-solar-and-the-lunar-years-the-cycle-of-19-years-commonly-called-the-golden-n_
 gutenberg_issued: '2020-07-26'
 gutenberg_type: Text
 identifiers:
