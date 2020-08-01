@@ -1,0 +1,29 @@
+_repo: Remarks-upon-the-solar-and-the-lunar-years-the-cycle-of-19-years-commonly-called-the-golden-n__62764
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macclesfield, George Parker, Earl of
+    alias: Parker, George, Earl of Macclesfield
+    deathdate: 1764
+    gutenberg_agent_id: '52110'
+    url: http://www.gutenberg.org/2009/agents/52110
+    wikipedia: https://en.wikipedia.org/wiki/George_Parker,_2nd_Earl_of_Macclesfield
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Easter -- Early works to 1800'
+- !lcsh 'Calendar reform -- Early works to 1800'
+- !lcsh 'Calendar -- Early works to 1800'
+- !lcc 'CE'
+- GITenberg
+title: Remarks upon the solar and the lunar years, the cycle of 19 years, commonly
+  called the golden number, the epact, and a method of finding the time of Easter,
+  as it is now observed in most parts of Europe
+url: http://www.gutenberg.org/ebooks/62764
